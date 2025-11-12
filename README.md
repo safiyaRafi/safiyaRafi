@@ -1,4 +1,4 @@
-<h1 align="center">💎 Shaik Safiya</h1>
+<h1 align="center"> Shaik Safiya</h1>
 
 <p align="center">
   <b>💻 Software Engineer | Full Stack Developer | React.js | Next.js | Python FastAPI</b><br/>
